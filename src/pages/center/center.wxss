@@ -1,6 +1,6 @@
 .center-top {
   height: 250rpx;
-  background: #ff6d1f;
+  background: #ff3264;
 }
 .center-top__avatar {
   display: inline-block;
@@ -18,7 +18,7 @@
   padding: 0 16rpx;
   line-height: 46rpx;
   font-size: 28rpx;
-  color: #ff6d1f;
+  color: #ff3264;
   background: #fff;
   border-radius: 5px;
 }
@@ -39,7 +39,7 @@
 .center-cell__text {
   margin-left: 16rpx;
   font-size: 32rpx;
-  color: #ff6d1f;
+  color: #ff3264;
 }
 .center-cell__text--bold {
   font-weight: bold;

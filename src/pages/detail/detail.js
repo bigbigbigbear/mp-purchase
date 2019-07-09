@@ -1,6 +1,6 @@
 Page({
   data: {
-    codeNo: 'ive1067054231',
+    codeNo: 'wxm1979107077',
     goods: {}
   },
   onLoad({ id = 1 }) {

@@ -16,7 +16,7 @@
   line-height: 56rpx;
   font-size: 32rpx;
   color: #fff;
-  background: #ff6d1f;
+  background: #ff3264;
 }
 .home-goods-item {
   width: 345rpx;

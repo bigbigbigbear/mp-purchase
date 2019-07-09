@@ -1,13 +1,13 @@
 Page({
   data: {
     userInfo: {},
-    phone: '15012851811',
-    codeNo: 'ive1067054231',
+    phone: '18691453315',
+    codeNo: 'wxm1979107077',
     latitude: 22.538482,
     longitude: 113.944101,
     scale: 14,
-    name: '深大',
-    address: '广东省深圳市南山区科技南一路'
+    name: '小m',
+    address: '广东省深圳市宝安区码头路245号'
   },
   onLoad() {
     this.setData({

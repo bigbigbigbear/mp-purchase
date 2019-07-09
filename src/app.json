@@ -6,13 +6,13 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#ff6d1f",
-    "navigationBarTitleText": "小V香港代购",
+    "navigationBarBackgroundColor": "#ff3264",
+    "navigationBarTitleText": "小马香港代购",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
-    "color": "#232326",
-    "selectedColor": "#ff6d1f",
+    "color": "#ff3264",
+    "selectedColor": "#ff3264",
     "backgroundColor": "#fff",
     "list": [
       {
